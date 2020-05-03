@@ -11,6 +11,6 @@ Call it with ESPtx(name) name is the user friendly name out of the tx433_config.
 eg. ESPtx(Switch_on)
 
 Futher as an expert you can create and add your own encoder files in the directory tx433_encoder
-I have implemented a power socket Quigg7000, the ev1527 protokoll and a spezial encoder for a remote bell.
+I have implemented a power socket Quigg7000, the ev1527 protokoll and a spezial encoder for a remote bell.  
 Feel free to implement your own.
 
