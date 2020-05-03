@@ -14,3 +14,4 @@ Futher as an expert you can create and add your own encoder files in the directo
 I have implemented a power socket Quigg7000, the ev1527 protokoll and a spezial encoder for a remote bell.  
 Feel free to implement your own.
 
+PS: How to connect a RF Transmitter to ESP32 see Google
